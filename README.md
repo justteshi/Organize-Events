@@ -6,6 +6,7 @@ HTML
 CSS
 JS
 
-Kinvey Database
+Kinvey Remote Database
 Handlebars
 
+Asynchronous Programming
